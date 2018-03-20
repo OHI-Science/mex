@@ -1,0 +1,7 @@
+---
+title: "hab_coral_ext_salo"
+author: "salodiaz"
+date: "20 de marzo de 2018"
+output: html_document
+---
+Ejemplo de un archivo que Salomón modificará
