@@ -1,0 +1,7 @@
+---
+title: "cs_manglar_area_2018"
+output: html_document
+---
+
+
+*fuente*:CONABIO.2007. Distribución de mangles en México
