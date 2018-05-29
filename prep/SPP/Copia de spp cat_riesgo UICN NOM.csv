@@ -1,0 +1,9 @@
+﻿Categorias de conservación de las especies según UICN vs NOM 059 y su estandarización para IdSO,,,,
+UICN,,NOM,,
+categoría,valor,categoría,clave,valor
+Extinto,0,Probablemente extinta en el medio silvestre,E,0
+en peligro crítico,0.2,En peligro de extinción,P,0.25
+Amenazada,0.4,Amenazada,A,0.5
+Vulnerable,0.6,Sujeta a protección especial,Pr,0.75
+Cercana a la amenaza,0.8,Sin preocupación (no en NOM),SR,1
+Sin precupación,1,,,
